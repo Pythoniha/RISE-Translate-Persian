@@ -1,4 +1,4 @@
-* [] Persian.rar ==== > Beta Version 0.001
+* [ ] Persian.rar ==== > Beta Version 0.001
 * [x] Persin_Finnally_Version.rar Last Version Finall .
 
 # Translate Engilish to Persian For Rise Project Manager 
