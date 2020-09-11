@@ -1,6 +1,6 @@
 * [x] Beta Version 0.001
 # Translate Engilish to Persian For Rise Project Manager 
-[https://github.com/Pythoniha/RISE-Translate-Persian/blob/master/Translate.jpg?raw=true]
+![Image Translate](https://github.com/Pythoniha/RISE-Translate-Persian/blob/master/Translate.jpg?raw=true)
 1. Donwload Persian.rar From this page .
 2.Upload File Persian.rar on this Path  ==== > ****/application/language/[EXtract Here ,,,]
 3.**** == Your Localhost or Site URL
